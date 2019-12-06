@@ -116,7 +116,7 @@ h1, h2, h3, h4, h5, h6, p, a, ul, span, li, img, inpot, button { margin: 0; padd
     font-size: 20px;
     margin-left: 163px;
 }
-#ja {height:194px;width:148px;margin-top;}
+#ja {margin-top;}
 #tekst {
 	margin-left: 368px;
     width: 60%;
